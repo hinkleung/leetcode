@@ -4,10 +4,17 @@
 
 
 ### 题解
-
-| 序号 | 题目&题解                                                    |
+<style>
+table th:first-of-type {
+    width: 30%;
+}
+table th:nth-of-type(2) {
+    width: 70%;
+}
+</style>
+| 序号                                  | 题目&题解                                                                                         |
 | :--- | ------------------------------------------------------------ |
-| 1    |                                                              |
-| 2    |                                                              |
-| 3    |                                                              |
-| 42   | [42-全排列](https://github.com/hinkleung/leetcode/solution/46-全排列/46-全排列.md) |
+| 1          |                                                              |
+| 2          |                                                              |
+| 3          |                                                              |
+| 42          | [42-全排列](https://github.com/hinkleung/leetcode/blob/main/solution/46-全排列/46-全排列.md) |
