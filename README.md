@@ -10,4 +10,4 @@
 | 1          |                                                              |
 | 2          |                                                              |
 | 3          |                                                              |
-| 42          | [42-全排列](https://github.com/hinkleung/leetcode/blob/main/solution/46-全排列/46-全排列.md) |
+| 42          | [42-全排列（中等）](https://github.com/hinkleung/leetcode/blob/main/solution/46-全排列/46-全排列.md) |
