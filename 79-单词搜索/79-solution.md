@@ -82,4 +82,4 @@ class Solution {
 
 #### 提交结果
 
-![79提交结果图](https://github.com/hinkleung/leetcode/blob/main/solution/79-单词搜索/79-pic.png)
+![79提交结果图](https://github.com/hinkleung/leetcode/blob/main/79-单词搜索/79-pic.png)

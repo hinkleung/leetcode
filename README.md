@@ -10,7 +10,7 @@
 | 1          |                                                              |
 | 2          |                                                              |
 | 3          |                                                              |
-| 31 | [下一个排列](https://github.com/hinkleung/leetcode/blob/main/solution/31-下一个排列/31-solution.md) |
-| 42          | [全排列](https://github.com/hinkleung/leetcode/blob/main/solution/46-全排列/46-solution.md) |
-| 79 | [单词搜索](https://github.com/hinkleung/leetcode/blob/main/solution/79-单词搜索/79-solution.md) |
-| 136 | [只出现一次的数字](https://github.com/hinkleung/leetcode/blob/main/solution/136-只出现一次的数字/136-solution.md) |
+| 31 | [下一个排列](https://github.com/hinkleung/leetcode/blob/main/31-下一个排列/31-solution.md) |
+| 42          | [全排列](https://github.com/hinkleung/leetcode/blob/main/46-全排列/46-solution.md) |
+| 79 | [单词搜索](https://github.com/hinkleung/leetcode/blob/main/79-单词搜索/79-solution.md) |
+| 136 | [只出现一次的数字](https://github.com/hinkleung/leetcode/blob/main/136-只出现一次的数字/136-solution.md) |

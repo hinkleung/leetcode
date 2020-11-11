@@ -46,7 +46,7 @@
 
 &emsp;&emsp;iii.换完数之后，[前小数]的后面的所有数置为**升序**，因为升序的数最小。
 
-3、如何找到**[后大数]和[前小数]**
+3、如何找到[后大数]和[前小数]
 
 &emsp;&emsp;i.[前小数]是从后面开始往前寻找的**第一个相邻的顺序数的左边数**，比如我在上面例子中加粗的部分的**左边数**
 
@@ -104,4 +104,4 @@ class Solution {
 
 #### 提交结果
 
-![31提交结果图](https://github.com/hinkleung/leetcode/blob/main/solution/31-下一个排列/31-result.png)
+![31提交结果图](https://github.com/hinkleung/leetcode/blob/main/31-下一个排列/31-result.png)
