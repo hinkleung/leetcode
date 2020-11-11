@@ -7,7 +7,7 @@
 
 | 序号 | 题目&题解                                                     |
 | :----------------------- | :------------------------------------ |
-| 1          |                                                              |
+| 1          | [两数之和](https://github.com/hinkleung/leetcode/blob/main/1-两数之和/1-solution.md) |
 | 2          |                                                              |
 | 3          |                                                              |
 | 31 | [下一个排列](https://github.com/hinkleung/leetcode/blob/main/31-下一个排列/31-solution.md) |
