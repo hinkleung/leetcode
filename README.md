@@ -14,3 +14,4 @@
 | 42          | [全排列](https://github.com/hinkleung/leetcode/blob/main/46-全排列/46-solution.md) |
 | 79 | [单词搜索](https://github.com/hinkleung/leetcode/blob/main/79-单词搜索/79-solution.md) |
 | 136 | [只出现一次的数字](https://github.com/hinkleung/leetcode/blob/main/136-只出现一次的数字/136-solution.md) |
+| 514 | [自由之路](https://github.com/hinkleung/leetcode/blob/main/514-自由之路/514-solution.md) |
