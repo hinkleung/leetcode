@@ -18,7 +18,7 @@
 
 **示例**
 
-![514ring](https://github.com/hinkleung/leetcode/blob/main/514-自由之路/514-ring.jpg)
+![514ring](https://github.com/hinkleung/leetcode/blob/main/514-自由之路/ring.jpg)
 
 ```
 输入: ring = "godding", key = "gd"
