@@ -1,5 +1,5 @@
 # leetcode
-此仓库是我的LeetCode做题记录，代码使用Java实现。作为刚开始做LeetCode的萌新，目前为止解决了55题（2020-11-07），突发奇想想要通过记录到github来监督自己做题，并且方便日后对所做过的题的复盘，计划把以前做过的题写下题解，顺便回顾一下，还有每天做的题解都写下来，尽量做到图文并茂。
+此仓库是我的LeetCode做题记录，代码使用Java实现。作为刚开始做LeetCode的新人，目前为止解决了55题（2020-11-07），突发奇想想要通过记录到github来监督自己做题，并且方便日后对所做过的题的复盘，计划把以前做过的题写下题解，顺便回顾一下，还有每天做的题解都写下来，尽量做到图文并茂。
 
 
 
@@ -15,3 +15,4 @@
 | 79 | [单词搜索](https://github.com/hinkleung/leetcode/blob/main/79-单词搜索/79-solution.md) |  中等  | 回溯算法、DFS |
 | 136 | [只出现一次的数字](https://github.com/hinkleung/leetcode/blob/main/136-只出现一次的数字/136-solution.md) |  中等  | 数组、异或 |
 | 514 | [自由之路](https://github.com/hinkleung/leetcode/blob/main/514-自由之路/514-solution.md) |  困难  | DFS、动态规划 |
+| 922 | [922-按奇偶排序数II](https://github.com/hinkleung/leetcode/blob/main/922-按奇偶排序数II/922-solution.md) | 简单 | 数组 |
