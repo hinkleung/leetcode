@@ -12,6 +12,7 @@
 | 3 |                                                              |    |  |
 | 31 | [下一个排列](https://github.com/hinkleung/leetcode/blob/main/31-下一个排列/31-solution.md) |  中等  | 数组 |
 | 42 | [全排列](https://github.com/hinkleung/leetcode/blob/main/46-全排列/46-solution.md) |  中等  | 回溯算法 |
+| 70 | [爬楼梯](https://github.com/hinkleung/leetcode/blob/main/70-爬楼梯/70-solution.md) | 简单 | 递归、动态规划 |
 | 79 | [单词搜索](https://github.com/hinkleung/leetcode/blob/main/79-单词搜索/79-solution.md) |  中等  | 回溯算法、DFS |
 | 136 | [只出现一次的数字](https://github.com/hinkleung/leetcode/blob/main/136-只出现一次的数字/136-solution.md) |  中等  | 数组、异或 |
 | 514 | [自由之路](https://github.com/hinkleung/leetcode/blob/main/514-自由之路/514-solution.md) |  困难  | DFS、动态规划 |
