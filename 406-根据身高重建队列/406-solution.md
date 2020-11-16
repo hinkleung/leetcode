@@ -72,4 +72,4 @@ class Solution {
 
 #### 提交结果
 
-![406提交结果图](https://github.com/hinkleung/leetcode/blob/main/406-根据身高重建队列/406-result1.png)
+![406提交结果图](https://github.com/hinkleung/leetcode/blob/main/406-根据身高重建队列/406-result.png)
