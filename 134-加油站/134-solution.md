@@ -179,5 +179,5 @@ class Solution {
 
 ### 提交结果二
 
-![134执行结果图](https://github.com/hinkleung/leetcode/blob/main/134-加油站/132-result.png)
+![134执行结果图](https://github.com/hinkleung/leetcode/blob/main/134-加油站/134-result.png)
 
