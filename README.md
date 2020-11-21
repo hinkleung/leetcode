@@ -16,9 +16,10 @@
 | 79 | [单词搜索](https://github.com/hinkleung/leetcode/blob/main/79-单词搜索/79-solution.md) |  中等  | 回溯算法、DFS |
 | 134 | [加油站](https://github.com/hinkleung/leetcode/blob/main/134-加油站/134-solution.md) | 中等 | 贪心算法 |
 | 136 | [只出现一次的数字](https://github.com/hinkleung/leetcode/blob/main/136-只出现一次的数字/136-solution.md) |  中等  | 数组、异或 |
+| 147 | [对链表进行插入排序](https://github.com/hinkleung/leetcode/blob/main/147-对链表进行插入排序/147-solution.md) | 中等 | 双指针 |
 | 283 | [移动零](https://github.com/hinkleung/leetcode/blob/main/283-移动零/283-solution.md) | 简单 | 双指针 |
 | 328 | [奇偶链表](https://github.com/hinkleung/leetcode/blob/main/328-奇偶链表/328-solution.md) | 中等 | 链表 |
-| 406 | [根据身高重建队列](https://github.com/hinkleung/leetcode/blob/main/406-根据身高重建队列/406-solution.md) | 中等 |  |
+| 406 | [根据身高重建队列](https://github.com/hinkleung/leetcode/blob/main/406-根据身高重建队列/406-solution.md) | 中等 | 贪心算法 |
 | 514 | [自由之路](https://github.com/hinkleung/leetcode/blob/main/514-自由之路/514-solution.md) |  困难  | DFS、动态规划 |
 | 922 | [按奇偶排序数II](https://github.com/hinkleung/leetcode/blob/main/922-按奇偶排序数II/922-solution.md) | 简单 | 数组 |
 | 1030 | [距离顺序排列矩阵单元格](https://github.com/hinkleung/leetcode/blob/main/1030-距离顺序排列矩阵单元格/1030-solution.md) | 简单 | 排序 |
