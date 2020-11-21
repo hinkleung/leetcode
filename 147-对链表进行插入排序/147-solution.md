@@ -84,7 +84,7 @@ class Solution {
         ListNode pre = dummyHead;
         while(cur!=null){
             if(pre.val>cur.val){
-                pre = dummyHead;//当前pre的位置刚好符合插入位置
+                pre = dummyHead;//当前pre的位置不符合插入位置
             }
             while(pre.next!=null && pre.next.val<cur.val){
                 pre=pre.next;
