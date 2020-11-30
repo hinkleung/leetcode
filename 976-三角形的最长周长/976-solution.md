@@ -78,5 +78,5 @@ class Solution {
 
 ### 执行结果
 
-![pic2](https://github.com/hinkleung/leetcode/blob/main/976-三角形的最大周长/976-pic1.png)
+![pic2](https://github.com/hinkleung/leetcode/blob/main/976-三角形的最大周长/976-result.png)
 
