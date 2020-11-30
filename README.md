@@ -8,8 +8,6 @@
 | 序号 | 题目&题解                                                     |  难度  | 标签 |
 | :----------------------- | :----------------------- | :----  | :---- |
 | 1 | [两数之和](https://github.com/hinkleung/leetcode/blob/main/1-两数之和/1-solution.md) |  简单  | 哈希表 |
-| 2 |                                                              |    |  |
-| 3 |                                                              |    |  |
 | 31 | [下一个排列](https://github.com/hinkleung/leetcode/blob/main/31-下一个排列/31-solution.md) |  中等  | 数组 |
 | 42 | [全排列](https://github.com/hinkleung/leetcode/blob/main/46-全排列/46-solution.md) |  中等  | 回溯算法 |
 | 70 | [爬楼梯](https://github.com/hinkleung/leetcode/blob/main/70-爬楼梯/70-solution.md) | 简单 | 递归、动态规划 |
@@ -21,6 +19,7 @@
 | 328 | [奇偶链表](https://github.com/hinkleung/leetcode/blob/main/328-奇偶链表/328-solution.md) | 中等 | 链表 |
 | 406 | [根据身高重建队列](https://github.com/hinkleung/leetcode/blob/main/406-根据身高重建队列/406-solution.md) | 中等 | 贪心算法 |
 | 514 | [自由之路](https://github.com/hinkleung/leetcode/blob/main/514-自由之路/514-solution.md) |  困难  | DFS、动态规划 |
+| 767 | [重构字符串](https://github.com/hinkleung/leetcode/blob/main/767-重构字符串/767-solution.md) | 中等 | 贪心算法、数组 |
 | 922 | [按奇偶排序数II](https://github.com/hinkleung/leetcode/blob/main/922-按奇偶排序数II/922-solution.md) | 简单 | 数组 |
 | 976 | [三角形的最大周长](https://github.com/hinkleung/leetcode/blob/main/976-三角形的最大周长/976-solution.md) | 简单 | 排序、数学 |
 | 1030 | [距离顺序排列矩阵单元格](https://github.com/hinkleung/leetcode/blob/main/1030-距离顺序排列矩阵单元格/1030-solution.md) | 简单 | 排序 |
