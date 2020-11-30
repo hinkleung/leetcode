@@ -39,19 +39,19 @@
 
 当`len`为偶数时，如`len=8`，最大出现字符`a`出现次数为4时，如下图：
 
-![pic](https://github.com/hinkleung/leetcode/blob/main/767-重构字符串/767-pic2.png)
+![pic](https://github.com/hinkleung/leetcode/blob/main/767-重构字符串/767-pic2.jpg)
 
 
 
 当`len`为奇数时，如`len=9`，最大出现字符`a`出现次数为5次时，如下图：
 
-![pic](https://github.com/hinkleung/leetcode/blob/main/767-重构字符串/767-pic1.png)
+![pic](https://github.com/hinkleung/leetcode/blob/main/767-重构字符串/767-pic1.jpg)
 
 
 
 当`len`为偶数时，如`len=8`，最大出现字符`a`出现次数为3次时，如下图：
 
-![pic](https://github.com/hinkleung/leetcode/blob/main/767-重构字符串/767-pic3.png)
+![pic](https://github.com/hinkleung/leetcode/blob/main/767-重构字符串/767-pic3.jpg)
 
 
 
