@@ -9,6 +9,7 @@
 | :----------------------- | :----------------------- | :----  | :---- |
 | 1 | [两数之和](https://github.com/hinkleung/leetcode/blob/main/1-两数之和/1-solution.md) |  简单  | 哈希表 |
 | 31 | [下一个排列](https://github.com/hinkleung/leetcode/blob/main/31-下一个排列/31-solution.md) |  中等  | 数组 |
+| 34 | [在排序数组中查找元素的第一和最后一个位置](https://github.com/hinkleung/leetcode/blob/main/34-在排序数组中查找元素的第一和最后一个位置/34-solution.md) | 中等 | 分治法 |
 | 42 | [全排列](https://github.com/hinkleung/leetcode/blob/main/46-全排列/46-solution.md) |  中等  | 回溯算法 |
 | 70 | [爬楼梯](https://github.com/hinkleung/leetcode/blob/main/70-爬楼梯/70-solution.md) | 简单 | 递归、动态规划 |
 | 79 | [单词搜索](https://github.com/hinkleung/leetcode/blob/main/79-单词搜索/79-solution.md) |  中等  | 回溯算法、DFS |
