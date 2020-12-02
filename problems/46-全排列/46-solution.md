@@ -35,7 +35,7 @@
 
 
 
-![42-树示意图](https://github.com/hinkleung/leetcode/blob/main/46-全排列/42-analysis.jpg)
+![42-树示意图](https://github.com/hinkleung/leetcode/blob/main/46-全排列/46-analysis.jpg)
 
 #### 代码实现
 
