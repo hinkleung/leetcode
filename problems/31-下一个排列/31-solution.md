@@ -104,4 +104,4 @@ class Solution {
 
 #### 提交结果
 
-![31提交结果图](https://github.com/hinkleung/leetcode/blob/main/31-下一个排列/31-result.png)
+![31提交结果图](https://github.com/hinkleung/leetcode/blob/main/problems/31-下一个排列/31-result.png)

@@ -78,7 +78,7 @@ class Solution {
 
 ### 提交结果一
 
-![1030提交结果图1](https://github.com/hinkleung/leetcode/blob/main/1030-距离顺序排列矩阵单元格/1030-result1.png)
+![1030提交结果图1](https://github.com/hinkleung/leetcode/blob/main/problems/1030-距离顺序排列矩阵单元格/1030-result1.png)
 
 </br>
 
@@ -146,7 +146,7 @@ class Solution {
 
 ### 提交结果二
 
-![1030提交结果图2](https://github.com/hinkleung/leetcode/blob/main/1030-距离顺序排列矩阵单元格/1030-result2.png)
+![1030提交结果图2](https://github.com/hinkleung/leetcode/blob/main/problems/1030-距离顺序排列矩阵单元格/1030-result2.png)
 
 </br>
 
@@ -191,4 +191,4 @@ class Solution {
 
 ### 提交结果三
 
-![1030提交结果图3](https://github.com/hinkleung/leetcode/blob/main/1030-距离顺序排列矩阵单元格/1030-result3.png)
+![1030提交结果图3](https://github.com/hinkleung/leetcode/blob/main/problems/1030-距离顺序排列矩阵单元格/1030-result3.png)

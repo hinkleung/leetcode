@@ -78,7 +78,7 @@ class Solution {
 }
 ```
 
-![结果图1](https://github.com/hinkleung/leetcode/blob/main/70-爬楼梯/70-result1.png)
+![结果图1](https://github.com/hinkleung/leetcode/blob/main/problems/70-爬楼梯/70-result1.png)
 
 </br>
 
@@ -102,7 +102,7 @@ class Solution {
 }
 ```
 
-![结果图1](https://github.com/hinkleung/leetcode/blob/main/70-爬楼梯/70-result2.png)
+![结果图1](https://github.com/hinkleung/leetcode/blob/main/problems/70-爬楼梯/70-result2.png)
 
 </br>
 
@@ -122,7 +122,7 @@ class Solution {
 
 ……
 
-![结果图1](https://github.com/hinkleung/leetcode/blob/main/70-爬楼梯/70-pic1.png)
+![结果图1](https://github.com/hinkleung/leetcode/blob/main/problems/70-爬楼梯/70-pic1.png)
 
 
 

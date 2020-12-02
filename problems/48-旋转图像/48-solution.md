@@ -73,7 +73,7 @@
 
 那么就开始就交换位置了，先暂存【上】的元素，【左】赋值到【上】，【下】赋值到【左】，【右】赋值到【下】，再把刚刚暂存的赋值到【右】
 
-![pic](https://github.com/hinkleung/leetcode/blob/main/48-旋转图像/48-pic.jpg)
+![pic](https://github.com/hinkleung/leetcode/blob/main/problems/48-旋转图像/48-pic.jpg)
 
 ### 代码实现
 
@@ -99,6 +99,6 @@ class Solution {
 
 ### 执行结果
 
-![pic](https://github.com/hinkleung/leetcode/blob/main/48-旋转图像/48-result.png)
+![pic](https://github.com/hinkleung/leetcode/blob/main/problems/48-旋转图像/48-result.png)
 
 </br>

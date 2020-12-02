@@ -74,6 +74,6 @@ class Solution {
 }
 ```
 
-![结果图1](https://github.com/hinkleung/leetcode/blob/main/328-奇偶链表/328-result.png)
+![结果图1](https://github.com/hinkleung/leetcode/blob/main/problems/328-奇偶链表/328-result.png)
 
 

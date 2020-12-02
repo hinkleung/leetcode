@@ -95,7 +95,7 @@ class Solution {
 
 ### 执行结果一
 
-![pic](https://github.com/hinkleung/leetcode/blob/main/34-在排序数组中查找元素的第一和最后一个位置/34-result.png)
+![pic](https://github.com/hinkleung/leetcode/blob/main/problems/34-在排序数组中查找元素的第一和最后一个位置/34-result.png)
 
 </br>
 
@@ -166,4 +166,4 @@ class Solution {
 
 ### 执行结果二
 
-![pic](https://github.com/hinkleung/leetcode/blob/main/34-在排序数组中查找元素的第一和最后一个位置/34-result1.png)
+![pic](https://github.com/hinkleung/leetcode/blob/main/problems/34-在排序数组中查找元素的第一和最后一个位置/34-result1.png)

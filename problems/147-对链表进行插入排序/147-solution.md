@@ -7,7 +7,7 @@
 
 对链表进行插入排序。
 
-![动态图](https://github.com/hinkleung/leetcode/blob/main/147-对链表进行插入排序/147-problem.gif)
+![动态图](https://github.com/hinkleung/leetcode/blob/main/problems/147-对链表进行插入排序/147-problem.gif)
 
 
 插入排序的动画演示如上。从第一个元素开始，该链表可以被认为已经部分排序（用黑色表示）。
@@ -43,11 +43,11 @@
 
 下面图示模拟一下插入排序过程，下面是`[-1,5,3,4,0]`一开始的情况。
 
-![pic1](https://github.com/hinkleung/leetcode/blob/main/147-对链表进行插入排序/147-pic1.jpg)
+![pic1](https://github.com/hinkleung/leetcode/blob/main/problems/147-对链表进行插入排序/147-pic1.jpg)
 
 模拟排完 `-1,5`，`cur`指向3
 
-![pic2](https://github.com/hinkleung/leetcode/blob/main/147-对链表进行插入排序/147-pic2.jpg)
+![pic2](https://github.com/hinkleung/leetcode/blob/main/problems/147-对链表进行插入排序/147-pic2.jpg)
 
 ### 代码实现一
 
