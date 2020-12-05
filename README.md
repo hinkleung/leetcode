@@ -13,6 +13,7 @@
 | 42 | [全排列](https://github.com/hinkleung/leetcode/blob/main/problems/46-全排列/46-solution.md) |  中等  | 回溯算法 |
 | 48 | [旋转图像](https://github.com/hinkleung/leetcode/blob/main/problems/48-旋转图像/48-solution.md) | 中等 | 数组 |
 | 49 | [字母异位词分组](https://github.com/hinkleung/leetcode/blob/main/problems/49-字母异位词分组/49-solution.md) | 中等 | 哈希表、字符串 |
+| 64 | [最小路径和](https://github.com/hinkleung/leetcode/blob/main/problems/64-最小路径和/64-solution.md) | 中等 | 动态规划 |
 | 70 | [爬楼梯](https://github.com/hinkleung/leetcode/blob/main/problems/70-爬楼梯/70-solution.md) | 简单 | 递归、动态规划 |
 | 79 | [单词搜索](https://github.com/hinkleung/leetcode/blob/main/problems/79-单词搜索/79-solution.md) |  中等  | 回溯算法、DFS |
 | 134 | [加油站](https://github.com/hinkleung/leetcode/blob/main/problems/134-加油站/134-solution.md) | 中等 | 贪心算法 |
