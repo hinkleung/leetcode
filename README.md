@@ -9,6 +9,7 @@
 | :----------------------- | :----------------------- | :----  | :---- |
 | 1 | [两数之和](https://github.com/hinkleung/leetcode/blob/main/problems/1-两数之和/1-solution.md) |  简单  | 哈希表 |
 | 7 | [整数反转](https://github.com/hinkleung/leetcode/blob/main/problems/7-整数反转/7-solution.md) | 简单 | 数学、数据类型 |
+| 9 | [整数反转](https://github.com/hinkleung/leetcode/blob/main/problems/9-回文数/9-solution.md) | 简单 | 数学、字符串 |
 | 31 | [下一个排列](https://github.com/hinkleung/leetcode/blob/main/problems/31-下一个排列/31-solution.md) |  中等  | 数组 |
 | 34 | [在排序数组中查找元素的第一和最后一个位置](https://github.com/hinkleung/leetcode/blob/main/problems/34-在排序数组中查找元素的第一和最后一个位置/34-solution.md) | 中等 | 分治法 |
 | 42 | [全排列](https://github.com/hinkleung/leetcode/blob/main/problems/46-全排列/46-solution.md) |  中等  | 回溯算法 |
