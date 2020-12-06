@@ -5,7 +5,7 @@
 
 ### 题目描述
 
-给定一个非负整数 *numRows，*生成杨辉三角的前 *numRows* 行。
+给定一个非负整数 numRows，生成杨辉三角的前 numRows 行。
 
 ![pic](https://github.com/hinkleung/leetcode/blob/main/problems/118-杨辉三角/118-pic1.gif)
 
