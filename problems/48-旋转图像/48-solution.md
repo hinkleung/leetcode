@@ -100,5 +100,3 @@ class Solution {
 ### 执行结果
 
 ![pic](https://github.com/hinkleung/leetcode/blob/main/problems/48-旋转图像/48-result.png)
-
-</br>

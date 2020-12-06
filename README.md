@@ -18,6 +18,7 @@
 | 64 | [最小路径和](https://github.com/hinkleung/leetcode/blob/main/problems/64-最小路径和/64-solution.md) | 中等 | 动态规划 |
 | 70 | [爬楼梯](https://github.com/hinkleung/leetcode/blob/main/problems/70-爬楼梯/70-solution.md) | 简单 | 递归、动态规划 |
 | 79 | [单词搜索](https://github.com/hinkleung/leetcode/blob/main/problems/79-单词搜索/79-solution.md) |  中等  | 回溯算法、DFS |
+| 118 | [杨辉三角](https://github.com/hinkleung/leetcode/blob/main/problems/118-杨辉三角/118-solution.md) | 简单 | 集合、数组 |
 | 134 | [加油站](https://github.com/hinkleung/leetcode/blob/main/problems/134-加油站/134-solution.md) | 中等 | 贪心算法 |
 | 136 | [只出现一次的数字](https://github.com/hinkleung/leetcode/blob/main/problems/136-只出现一次的数字/136-solution.md) |  中等  | 数组、异或 |
 | 147 | [对链表进行插入排序](https://github.com/hinkleung/leetcode/blob/main/problems/147-对链表进行插入排序/147-solution.md) | 中等 | 双指针 |
