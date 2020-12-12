@@ -19,6 +19,7 @@
 | 62 | [不同路径](https://github.com/hinkleung/leetcode/blob/main/problems/62-不同路径/62-solution.md) | 中等 | 动态规划 |
 | 64 | [最小路径和](https://github.com/hinkleung/leetcode/blob/main/problems/64-最小路径和/64-solution.md) | 中等 | 动态规划 |
 | 70 | [爬楼梯](https://github.com/hinkleung/leetcode/blob/main/problems/70-爬楼梯/70-solution.md) | 简单 | 递归、动态规划 |
+| 75 | [颜色分类](https://github.com/hinkleung/leetcode/blob/main/problems/75-颜色分类/75-solution.md) | 中等 | 排序、数组、双指针 |
 | 79 | [单词搜索](https://github.com/hinkleung/leetcode/blob/main/problems/79-单词搜索/79-solution.md) |  中等  | 回溯算法、DFS |
 | 114 | [二叉树展开为链表](https://github.com/hinkleung/leetcode/blob/main/problems/114-二叉树展开为链表/114-solution.md) | 中等 | 树、深度优先搜索 |
 | 118 | [杨辉三角](https://github.com/hinkleung/leetcode/blob/main/problems/118-杨辉三角/118-solution.md) | 简单 | 集合、数组 |
