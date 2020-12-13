@@ -23,6 +23,7 @@
 | 79 | [单词搜索](https://github.com/hinkleung/leetcode/blob/main/problems/79-单词搜索/79-solution.md) |  中等  | 回溯算法、DFS |
 | 114 | [二叉树展开为链表](https://github.com/hinkleung/leetcode/blob/main/problems/114-二叉树展开为链表/114-solution.md) | 中等 | 树、深度优先搜索 |
 | 118 | [杨辉三角](https://github.com/hinkleung/leetcode/blob/main/problems/118-杨辉三角/118-solution.md) | 简单 | 集合、数组 |
+| 124 | [二叉树中的最大路径和](https://github.com/hinkleung/leetcode/blob/main/problems/124-二叉树中的最大路径和/124-solution.md) | 困难 | 树、深度优先搜索 |
 | 134 | [加油站](https://github.com/hinkleung/leetcode/blob/main/problems/134-加油站/134-solution.md) | 中等 | 贪心算法 |
 | 136 | [只出现一次的数字](https://github.com/hinkleung/leetcode/blob/main/problems/136-只出现一次的数字/136-solution.md) |  中等  | 数组、异或 |
 | 147 | [对链表进行插入排序](https://github.com/hinkleung/leetcode/blob/main/problems/147-对链表进行插入排序/147-solution.md) | 中等 | 双指针 |
