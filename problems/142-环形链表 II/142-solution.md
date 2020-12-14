@@ -17,7 +17,7 @@
 
 #### 示例1:
 
-![pic](https://github.com/hinkleung/leetcode/blob/main/problems/142-环形链表 II/142-pic.png)
+![pic](https://github.com/hinkleung/leetcode/blob/main/problems/142-环形链表%20II/142-pic.png)
 
 ```
 输入：head = [3,2,0,-4], pos = 1
@@ -27,7 +27,7 @@
 
 #### 示例2:
 
-![pic](https://github.com/hinkleung/leetcode/blob/main/problems/142-环形链表 II/142-pic2.png)
+![pic](https://github.com/hinkleung/leetcode/blob/main/problems/142-环形链表%20II/142-pic2.png)
 
 ```
 输入：head = [1,2], pos = 0
@@ -37,7 +37,7 @@
 
 #### 示例3:
 
-![pic](https://github.com/hinkleung/leetcode/blob/main/problems/142-环形链表 II/142-pic3.png)
+![pic](https://github.com/hinkleung/leetcode/blob/main/problems/142-环形链表%20II/142-pic3.png)
 
 ```
 输入：head = [1], pos = -1
@@ -110,4 +110,4 @@ public class Solution {
 
 ### 执行结果
 
-![pic](https://github.com/hinkleung/leetcode/blob/main/problems/142-环形链表 II/142-result.png)
+![pic](https://github.com/hinkleung/leetcode/blob/main/problems/142-环形链表%20II/142-result.png)
