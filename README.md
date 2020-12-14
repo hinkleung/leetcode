@@ -27,6 +27,7 @@
 | 134 | [加油站](https://github.com/hinkleung/leetcode/blob/main/problems/134-加油站/134-solution.md) | 中等 | 贪心算法 |
 | 136 | [只出现一次的数字](https://github.com/hinkleung/leetcode/blob/main/problems/136-只出现一次的数字/136-solution.md) |  中等  | 数组、异或 |
 | 141 | [环形链表](https://github.com/hinkleung/leetcode/blob/main/problems/141-环形链表/141-solution.md) | 简单 | 链表、双指针 |
+| 142 | [环形链表 II](https://github.com/hinkleung/leetcode/blob/main/problems/142-环形链表 II/142-solution.md) | 中等 | 数学、链表、双指针 |
 | 147 | [对链表进行插入排序](https://github.com/hinkleung/leetcode/blob/main/problems/147-对链表进行插入排序/147-solution.md) | 中等 | 双指针 |
 | 204 | [计算质数](https://github.com/hinkleung/leetcode/blob/main/problems/204-计算质数/204-solution.md) | 简单 | 数学 |
 | 283 | [移动零](https://github.com/hinkleung/leetcode/blob/main/problems/283-移动零/283-solution.md) | 简单 | 双指针 |
