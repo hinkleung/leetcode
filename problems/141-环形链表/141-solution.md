@@ -17,7 +17,7 @@
 
 #### 示例1:
 
-![pic](https://github.com/hinkleung/leetcode/blob/main/problems/141-环形链表/141-pic1.png)
+![pic](https://github.com/hinkleung/leetcode/blob/main/problems/141-环形链表/141-pic.png)
 
 ```
 输入：head = [3,2,0,-4], pos = 1
