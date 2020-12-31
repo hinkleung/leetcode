@@ -27,6 +27,7 @@
 | 124 | [二叉树中的最大路径和](https://github.com/hinkleung/leetcode/blob/main/problems/124-二叉树中的最大路径和/124-solution.md) | 困难 | 树、深度优先搜索 |
 | 134 | [加油站](https://github.com/hinkleung/leetcode/blob/main/problems/134-加油站/134-solution.md) | 中等 | 贪心算法 |
 | 136 | [只出现一次的数字](https://github.com/hinkleung/leetcode/blob/main/problems/136-只出现一次的数字/136-solution.md) |  中等  | 数组、异或 |
+| 139 | [单词拆分](https://github.com/hinkleung/leetcode/blob/main/problems/139-单词拆分/139-solution.md) | 中等 | 动态规划 |
 | 141 | [环形链表](https://github.com/hinkleung/leetcode/blob/main/problems/141-环形链表/141-solution.md) | 简单 | 链表、双指针 |
 | 142 | [环形链表 II](https://github.com/hinkleung/leetcode/blob/main/problems/142-环形链表%20II/142-solution.md) | 中等 | 数学、链表、双指针 |
 | 147 | [对链表进行插入排序](https://github.com/hinkleung/leetcode/blob/main/problems/147-对链表进行插入排序/147-solution.md) | 中等 | 双指针 |
