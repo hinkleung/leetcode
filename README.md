@@ -36,6 +36,7 @@
 | 290 | [单词规律](https://github.com/hinkleung/leetcode/blob/main/problems/290-单词规律/290-solution.md) | 简单 | 哈希表 |
 | 328 | [奇偶链表](https://github.com/hinkleung/leetcode/blob/main/problems/328-奇偶链表/328-solution.md) | 中等 | 链表 |
 | 406 | [根据身高重建队列](https://github.com/hinkleung/leetcode/blob/main/problems/406-根据身高重建队列/406-solution.md) | 中等 | 贪心算法 |
+| 509 | [斐波那契数](https://github.com/hinkleung/leetcode/blob/main/problems/509-斐波那契数/509-solution.md) | 简单 | 数组、动态规划 |
 | 514 | [自由之路](https://github.com/hinkleung/leetcode/blob/main/problems/514-自由之路/514-solution.md) |  困难  | DFS、动态规划 |
 | 767 | [重构字符串](https://github.com/hinkleung/leetcode/blob/main/problems/767-重构字符串/767-solution.md) | 中等 | 贪心算法、数组 |
 | 922 | [按奇偶排序数II](https://github.com/hinkleung/leetcode/blob/main/problems/922-按奇偶排序数II/922-solution.md) | 简单 | 数组 |
