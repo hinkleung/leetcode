@@ -26,7 +26,7 @@
 public class Main {
 
     
-	public int[] sortArray(int[] nums) {
+    public int[] sortArray(int[] nums) {
         int[] temp = new int[nums.length];
         mergeSort(nums, 0, nums.length-1, temp);
         return nums;
